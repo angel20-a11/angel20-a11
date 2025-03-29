@@ -24,9 +24,9 @@
 ---
 
 ## 📞 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tuportafolio.com)  
+[![LinkedIn]
+[![Twitter]
+[![Portafolio]
 📧 **Email:** 76209750@continental.edu.pe  
 
 ---
